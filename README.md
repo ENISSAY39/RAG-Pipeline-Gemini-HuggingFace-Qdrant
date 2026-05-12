@@ -153,7 +153,7 @@ Required secrets:
 Install dependencies:
 
 ```bash
-pip install qdrant-client sentence-transformers google-generativeai
+pip install -r requirements.txt
 ```
 
 ---
